@@ -1,0 +1,12 @@
+   47. Exercise: Javascript Ops
+
+
+Exercise - Javascript Ops
+15 JUNE 2017 by Mark Price
+Let's help you become a master of Javascript.
+
+Perform the following:
+
+1. Given one or more parameters, create a function that returns the area of a triangle
+2. Given one or more parameters, create a function that returns the area of a circle
+3. Create a single function that can take one or more parameters, and can return the area regardless of the shape (single function for triangle, circle, or rectangle)
